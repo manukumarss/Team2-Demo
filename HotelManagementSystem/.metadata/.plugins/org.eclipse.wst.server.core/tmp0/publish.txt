@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Mar 02 16:33:12 IST 2020
+org.eclipse.jst.jee.server\:HotelManagement=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\HotelManagement
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\chaithra.ks\\.m2\\repository\\org\\springframework\\spring-web\\5.0.3.RELEASE\\spring-web-5.0.3.RELEASE.jar=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\HotelManagement\\WEB-INF\\lib\\spring-web-5.0.3.RELEASE.jar
