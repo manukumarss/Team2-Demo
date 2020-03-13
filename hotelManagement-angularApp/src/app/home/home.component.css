@@ -1,0 +1,266 @@
+.site_header{
+    margin:40px;
+    font-family: "Open Sans",sans-serif !important;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    background: 0 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    color: #fafafa;
+}
+
+.img_align{
+    margin-left:40px;
+}
+
+#home_carousel {
+     padding-right: 0px;
+     padding-left: 0px; 
+     margin-right: 0px; 
+     margin-left: 0px;
+}
+
+#carousel-example-generic {
+	height: 100%;
+	width: 100%;
+}
+
+.carouselTitle {
+	font-size: 64px;
+	font-weight: 100;
+	color: white;
+	text-shadow: 0 1px 2px #000;
+	position: absolute;
+	bottom: 138px;
+    left: 80px;
+    background: #000c13bf;
+    padding: 10px 10px 0 10px;
+}
+
+.carouselData {
+	font-size: 20px;
+	font-weight: 100;
+	color: white;
+	text-shadow: 0 1px 2px #000;
+	position: absolute;
+	bottom: 8px;
+    left: 80px;
+    background: #000c13bf;
+    padding: 10px 10px 0 10px;
+}
+
+.carousel-item img {
+    height: 80%;
+    width: 100%;
+}
+
+.nav-link {
+    text-decoration: none;
+    color : #fafafa !important;
+}
+
+#booking_block{
+    background-color:aqua;
+}
+
+#home_img1 img{
+    width:60%;
+    height: 450px;
+}
+
+#home_img2 img{
+    width:50%;
+    position: absolute;
+    right: 120px;
+    top: 233px;
+    z-index: 0;
+}
+
+#description_block{
+    padding: 50px;
+    margin-right:0px !important;
+}
+
+.hotel_name{
+    font-weight: 600 !important;
+}
+
+#hotel_desc{
+    font-family: "Open Sans",sans-serif !important;
+    letter-spacing: 0.1rem;
+    position: relative;
+    padding-top: 1.25rem;
+}
+
+.desc_head {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 80px;
+    height: 4px;
+    background-color: #c1b086;
+}
+
+.amenities_block{
+    margin-top: 70px;
+    background-image: url('../../assets/hotel_images/People-Say.jpg');
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#amenities_desc{
+    height: 430px;
+    background-color: #3f9cc1eb;
+}
+
+#amen_desc{
+    letter-spacing: 0.1rem;
+    font-family: "Open Sans",sans-serif !important;
+    color:white;
+    margin-top:50px;
+    margin-left:50px;
+    margin-right:50px;
+    margin-bottom: 50px;
+}
+
+.am_desc_list p{
+    margin-left: 30px;
+}
+
+.am_desc_list p i{
+    margin-right: 10px;
+}
+
+#room_desc{
+    margin-top:40px;
+    padding: 50px;
+}
+
+.room_head{
+    width: 40px;
+    height: 4px;
+    background-color: #c1b086;
+    margin-bottom: 5px;
+}
+
+.room_heading_primary{
+    color: #e7ad44;
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+
+.room_heading_secondary{
+    margin-top: 0;
+    font-size: 36px;
+    line-height: 120%;
+}
+
+.room_type{
+    margin-top: 20px;
+    margin-bottom:30px;
+}
+
+.room_img img{
+    height: 300px ;
+    width:550px;
+    border-radius: 20px;
+    padding-top:10px;
+}
+
+@media (min-width: 1280px) {
+
+    .room_img img{
+        width:450px !important;
+    }
+    #home_img2 img{
+    width: 60%;
+    right: 90px;
+    top: 244px;
+    }
+    .am_desc_list p{
+        margin-left: 0px;
+        font-size: 15px;
+    }
+
+}
+
+@media (min-width: 1600px) {
+
+    .room_img img{
+        width: 550px !important;
+    }
+    #home_img2 img{
+        width:50%;
+        position: absolute;
+        right: 120px;
+        top: 233px;
+        z-index: 0;
+    }
+    .am_desc_list p{
+        margin-left: 30px;
+    }
+
+}
+
+@media (min-width: 768px) {
+
+    .room_img img{
+        width: 300px;
+    }
+
+}
+
+.room_desc{
+    padding-top: 60px;
+}
+
+/*Footer styles*/
+
+/*FOOTER*/
+
+footer {
+    background: #3291c2;
+    color: white;
+    margin-top:100px;
+  }
+  
+  footer a {
+    color: #fff;
+    font-size: 25px;
+    transition-duration: 0.2s;
+  }
+  
+  footer a:hover {
+    color: #FA944B;
+    text-decoration: none;
+  }
+  
+  .copy {
+    margin-top:15px;
+    font-size: 12px;
+    padding: 10px;
+    border-top: 1px solid #FFFFFF;
+  }
+  
+  .footer-middle {
+    padding-top: 2em;
+    color: white;
+  }
+  
+.footer_list{
+    list-style: none;
+    margin: 0;
+    padding-left: 0px;
+}
+.footer_list li{
+    display: inline-block;
+    margin-left: 3px;
+}
+  

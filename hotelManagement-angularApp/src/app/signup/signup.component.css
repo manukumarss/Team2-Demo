@@ -1,0 +1,52 @@
+.signup_block{
+  background-image: url('../../assets/hotel_images/slide-1-2560x1268.jpg');
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+#login_img{
+  position: absolute;
+  height: 70px;
+  top: 50px;
+  left: 60px;
+  opacity: 0.3;
+  width: 145px;
+}
+.signup_box{
+  padding:30px;
+  margin-top:70px;
+  margin-bottom:180px;
+}
+/*FOOTER*/
+footer {
+  background: #3291C2;
+  color: white;
+  /*padding-top:100px;*/
+}
+footer a {
+  color: #fff;
+  font-size: 25px;
+  transition-duration: 0.2s;
+}
+footer a:hover {
+  color: #FA944B;
+  text-decoration: none;
+}
+.copy {
+  margin-top:15px;
+  font-size: 12px;
+  padding: 10px;
+  border-top: 1px solid #FFFFFF;
+}
+.footer-middle {
+  padding-top: 2em;
+  color: white;
+}
+.footer_list{
+  list-style: none;
+  margin: 0;
+  padding-left: 0px;
+}
+.footer_list li{
+  display: inline-block;
+  margin-left: 3px;
+}

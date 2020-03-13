@@ -1,0 +1,39 @@
+Premium Room: Enjoy Your stay at our HOTEL NAME in this 650 square foot room complete with a Kingsize bed. 
+A room assigned to 5 people with 2 king size double bed and 1 king size bed. 
+Beautiful interiors meet breathtaking exteriors in pool-facing rooms that have a fabulous view of the aquamarine waters
+The large bathroom offers a large walk-in glass shower and carrera marble vanity. 
+The room is equipped with the state of the art technology including complimentary high-speed wired and wireless internet, 
+Starbucks in room coffee pods with maker and fridge. 
+
+Amenities:
+AC, Tv, Free Wifi, Hot & cold water, HouseKeeping, Electric Kettle, Laundry Service, CCTV enabled secured premises.
+
+outside:Comfort meets functionality in our Premium rooms that are designed for privacy and peace.
+===================
+Budget Room: Enjoy Your stay at our HOTEL NAME in this 400 square foot room complete with a Queensize bed. 
+The room is assigned to 4 people with 2 queen size double bed.
+Get nice view of the garden when you are in balcony.
+This standard room features a modern desk workspace and oversized chair.
+Modern bathrooms are equipped with stand-alone bath and shower units. 
+
+Amenities:
+AC, Tv, Free Wifi, HouseKeeping, Bed type: Queen size double, Electric Kettle, CCTV enabled secured premises.
+
+outside: A family of four gets the comforts in their Budgets.
+=====================
+Classic Room: Enjoy Your stay at our HOTEL NAME in this 300 square foot room complete with a Queensize bed.
+The room is assigned to 3 people with 1 queen size double bed and 1 single bed.
+Bathrooms are equipped with stand-alone bath and shower units.
+An ergonomic work desk lets you attend to business.
+
+Amenities:
+Tv, Bed type: Queen size, Electric Kettle, CCTV enabled secured premises.
+
+outside: Get your comforts in Classy
+=================
+//For main page: 
+HOTEL NAME is a boutique property that sets the standard for exclusive luxury with its unique beauty and charm.
+Style meets substance in rooms that are high on space and aesthetics.
+At the Heart of Low Country Style, Culture and Cuisine.
+Change your view & relax, it’s Holiday Inn.
+Come in as Guests. Leave as Family.
