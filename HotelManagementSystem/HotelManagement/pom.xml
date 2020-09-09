@@ -14,7 +14,7 @@
 		<springframework.version>5.0.3.RELEASE</springframework.version>
 		<log4j.version>2.10.0</log4j.version>
 		<hibernate.version>5.2.13.Final</hibernate.version>
-		<hibernate.validator>5.4.1.Final</hibernate.validator>
+		<hibernate.validator>5.4.2.Final</hibernate.validator>
 	</properties>
 
 
